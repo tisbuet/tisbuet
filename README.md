@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tisbuet&label=Profile%20views&color=0e75b6&style=flat" alt="tisbuet" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/tisbuet/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tisbuet" /></a> </p>
-
-
 - 👨‍💻 All about me is at [My Website](https://tisbuet.github.io/)
 
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@tisbuet_18039)
