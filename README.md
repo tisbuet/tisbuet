@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tisbuet@gmail.com**
 
-- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing)
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1efDl-nEZphM68Xvtj7R4K3m9qYAJDeM5/view?usp=sharing)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
