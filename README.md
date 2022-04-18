@@ -9,7 +9,7 @@
 
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@tisbuet_18039)
 
-- 💬 Ask me about ``` "Python", "Artificial Intelligence", "Natural Language Processing", "Computer Vision" ```
+- 💬 Ask me about ``` Python, Artificial Intelligence, Natural Language Processing, Computer Vision ```
 
 - 📫 How to reach me **tisbuet@gmail.com**
 
