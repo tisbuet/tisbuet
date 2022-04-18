@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tisbuet" alt="tisbuet" /></a> </p>
 
-- 👨‍💻 All about me is at [My Website]("https://tisbuet.github.io/", "_blank")
+- 👨‍💻 All about me is at [My Website](*https://tisbuet.github.io/)
 
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@tisbuet_18039)
 
