@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Md. Tariqul Islam</h1>
+<h2> Hi, This is Md. Tariqul Islam! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3 align="center">I'm a Machine Learning Engineer at Hishab Ltd.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tisbuet&label=Profile%20views&color=0e75b6&style=flat" alt="tisbuet" /> </p>
